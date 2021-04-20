@@ -23,7 +23,5 @@ Adobe XD
 
 cherry_blossom Me gusta el diseño en general.
 
-👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast de tecnologia, mirar canales de decoracion, practicar Crossfit & Yoga, y aprender Linux.
-
-10
+👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast de tecnologia, mirar canales de decoracion, practicar Crossfit & Yoga, y aprender Linux 🤖
 
