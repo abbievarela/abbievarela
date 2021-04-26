@@ -22,7 +22,7 @@ Power BI
 Adobe XD
 
 
-Me encanta el diseño en general. 🌻 🎨
+
 
 👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast de tecnologia, mirar canales de decoracion, practicar Crossfit & Yoga, y aprender Linux 🤖
 
