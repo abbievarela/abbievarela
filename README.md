@@ -1,9 +1,10 @@
 
    <h3 align="center"># Hola! 👋🏼 soy Abbie.</h3>
 </p>
-<br />Voy a ser Data Engineer algún día. 🤓
-💪🏼 Actualmente soy developer Etl. 🦄
+<br />
 <h3 align="center">
+Voy a ser Data Engineer algún día. 🤓
+💪🏼 Actualmente soy developer Etl. 🦄
 Aprendiz de python :snake:
 
 🕵️‍♀️ Intenté aprender diferentes lenguajes y herramientas, entre ellos:
