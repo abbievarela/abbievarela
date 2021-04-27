@@ -2,7 +2,7 @@
    <h3 align="center"># Hola! 👋🏼 soy Abbie.</h3>
 </p>
 <br />
-<h3 align="center">
+..
 Voy a ser Data Engineer algún día. 🤓
 💪🏼 Actualmente soy developer Etl. 🦄
 Aprendiz de python :snake:
