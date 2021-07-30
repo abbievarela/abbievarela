@@ -1,7 +1,5 @@
 ### Hola 👋, my name is Abbie
 #### I am Desarrolladora ETL & Especialista BI
-![I am Desarrolladora ETL & Especialista BI](https://github.com/abbievarela)
-
 .. Voy a ser Data Engineer algún día. 🤓 💪🏼
  Actualmente soy desarrollador Etl. 🦄 & Aprendiz de pitón 🐍
 
@@ -24,4 +22,5 @@ Habilidades: SAS / SQL / ETL /
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abbievarela&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abbievarela)  
+
 
