@@ -1,7 +1,7 @@
 ### Hola 👋, my name is Abbie
 #### I am Desarrolladora ETL & Especialista BI
 .. Voy a ser Data Engineer algún día. 🤓 💪🏼
- Actualmente soy desarrollador Etl. 🦄 & Aprendiz de pitón 🐍
+ Actualmente soy desarrollador Etl. 🦄
 
 🕵️‍♀️ Intenté aprender diferentes lenguajes y herramientas, entre ellos:
 
