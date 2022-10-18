@@ -1,11 +1,11 @@
 ### Hola 👋, my name is Abbie
-#### I am Desarrolladora ETL & Especialista BI
-.. Voy a ser Data Engineer algún día. 🤓 💪🏼
- Actualmente soy desarrollador Etl. 🦄
+#### I am Data Engineer 🤓 💪🏼
 
 🕵️‍♀️ Intenté aprender diferentes lenguajes y herramientas, entre ellos:
 
-HTML CSS Javascript Sql Python Linux Talend Java SAS DI Tableau Power BI Adobe XD
+HTML-CSS-SQL-Python-Linux-Talend-SAS DI-SSIS-Tableau-Power BI.
+
+Trabajo en el Área tecnológica de Business Intelligence como Data Engineer. Desarrollando soluciones BI, Diseño ETL, modelado de datos, analisis funcional, desarrollo de pruebas, y debugging de ETL. Para mi el trabajo en equipo es uno de mis pilares, Tengo confianza en mi capacidad para aportar ideas interesantes e innovadoras a grupos y equipos de trabajo. 
 
 👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast de tecnologia, mirar canales de decoracion, practicar Crossfit & Yoga, y aprender Linux 🤖
 
