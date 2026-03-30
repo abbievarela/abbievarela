@@ -1,13 +1,16 @@
 ### Hola 👋, my name is Abbie
 #### I am Data Engineer 🤓 💪🏼
 
-🕵️‍♀️ Intenté aprender diferentes lenguajes y herramientas, entre ellos:
+Cuento con más de 6 años de experiencia en proyectos de datos para banca, telecomunicaciones y medios de pago.
+Lo que hago:
+→ Limpieza y organización de bases de datos
+→ Procesos ETL con SAS, SQL y herramientas de integración
+→ Reportes y dashboards en Power BI y Tableau
+→ Relevamiento con stakeholders: entiendo el negocio antes de tocar los datos
+→ Documentación clara de procesos para que el equipo pueda mantenerlos
+Mi forma de trabajar es ordenada, comunicativa y orientada a que el cliente entienda qué se está haciendo y por qué.
 
-SQL-Python-Linux-Talend-SAS DI-SSIS-Tableau-Power BI.
-
-Trabajo en el Área tecnológica de Business Intelligence como Data Engineer. Desarrollando soluciones BI, Diseño ETL, modelado de datos, analisis funcional, desarrollo de pruebas, y debugging de ETL. Para mi el trabajo en equipo es uno de mis pilares, Tengo confianza en mi capacidad para aportar ideas interesantes e innovadoras a grupos y equipos de trabajo. 
-
-👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast, practicar Crossfit & Yoga, y ver mucho anime obveeo. 🤖
+👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast, practicar pilates, y ver mucho anime obveeo. 🤖
 
 Habilidades: SAS / SQL / ETL / 
 
