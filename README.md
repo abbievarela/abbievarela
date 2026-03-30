@@ -2,6 +2,7 @@
 #### I am Data Engineer 🤓 💪🏼
 
 Cuento con más de 6 años de experiencia en proyectos de datos para banca, telecomunicaciones y medios de pago.
+
 Lo que hago:
 → Limpieza y organización de bases de datos
 → Procesos ETL con SAS, SQL y herramientas de integración
