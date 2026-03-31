@@ -13,7 +13,7 @@ Mi forma de trabajar es ordenada, comunicativa y orientada a que el cliente enti
 
 👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast, practicar pilates, y ver mucho anime obveeo. 🤖
 
-Habilidades: SAS / SQL / ETL / 
-
+ ETL · SQL · Python · SSIS · SAS | Power BI · Tableau | Azure · GCP | DevSecOps | Business Intelligence & Analytics
+ 
 - 🔭 Estoy trabajando en this page. 
 - 📫 Cómo contactarme: natalyabigailvarela@gmail.com 
