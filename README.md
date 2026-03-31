@@ -11,7 +11,7 @@ Lo que hago:
 → Documentación clara de procesos para que el equipo pueda mantenerlos
 Mi forma de trabajar es ordenada, comunicativa y orientada a que el cliente entienda qué se está haciendo y por qué.
 
-👩🏻 Mis hobbies son: Comprar mates artesanales, ver series en ntfx, escuchar podcast, practicar pilates, y ver mucho anime obveeo. 🤖
+👩🏻 Mis hobbies: Comprar mates artesanales, ver series en ntfx, escuchar podcast, practicar pilates, y ver mucho anime obveeo. 🤖
 
  ETL · SQL · Python · SSIS · SAS | Power BI · Tableau | Azure · GCP | DevSecOps | Business Intelligence & Analytics
  
